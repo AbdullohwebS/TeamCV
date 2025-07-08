@@ -32,7 +32,7 @@ export default function Navbar() {
     >
       <div className="container-custom flex justify-between items-center">
         <Link href="/" className="text-2xl font-bold">
-          Positivus<span className="text-green-500">.</span>
+          Stackflowx<span className="text-green-500">.</span>
         </Link>
 
         {/* Mobile menu button */}
