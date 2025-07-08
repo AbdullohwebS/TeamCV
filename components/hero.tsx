@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="container-custom grid md:grid-cols-2 gap-12 items-center">
         <div>
           <h1 className="mb-6">
-            Elevate Your Brand with <span className="text-green-500">Positivus</span>
+            Elevate Your Brand with <span className="text-green-500">Stackflowx</span>
           </h1>
           <p className="text-lg mb-8 text-gray-700">
             We're a digital marketing agency focused on helping your business grow through strategic marketing solutions
